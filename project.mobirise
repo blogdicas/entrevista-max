@@ -68,7 +68,8 @@
               "margin": "0 auto"
             },
             ".section-text": {
-              "padding": "2rem 0"
+              "padding": "2rem 0",
+              "color": "#ffffff"
             },
             ".inner-container": {
               "margin": "0 auto"
